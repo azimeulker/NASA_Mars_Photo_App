@@ -1,7 +1,6 @@
 """
-Description: Assignment-2 NASA Mars Photo App
+Description: NASA Mars Photo App
 Author: Azime Ulker
-Section Number: 251409
 Date Created: January 10,2023
 
 Updates:
